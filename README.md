@@ -1,5 +1,6 @@
-# I am getting all my framework and scripts into this repo for easy maintenance 
+# Pre-Requisites
 
+I am getting all my framework and scripts into this repo for easy maintenance 
 install JAVA JDK 
 install selenium client jar file
 install appium client file
